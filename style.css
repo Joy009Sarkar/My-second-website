@@ -31,3 +31,27 @@ p {
 span {
     color: red;
 }
+
+/* 
+Images styled////////////////////////////////////////////////////////////////////////////////////
+*/
+.portrait {
+    border: solid navy 2px;
+    width: 270px;
+    margin: 5px;
+    height: 240px;
+}
+
+.red-black {
+    border: solid red 2px;
+    width: 350px;
+    margin-left: 200px;
+    height: 260px;
+}
+
+.single-tree {
+    width: 380px;
+    border: solid greenyellow 2px;
+    margin-left: 100px;
+
+}
