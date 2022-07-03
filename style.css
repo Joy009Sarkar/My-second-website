@@ -5,9 +5,11 @@ body {
 
 }
 
+/* h1...................
+...................... */
 
 h1 {
-    background-color: rgba(204, 35, 35, 0.986);
+    background-color: rgba(228, 74, 133, 0.836);
     border: solid rgba(13, 218, 74, 0.575) 4px;
     border-radius: 80px;
     margin: 50px 0px 0px 360px;
@@ -15,6 +17,8 @@ h1 {
     padding-left: 20px;
 }
 
+/* p...................
+............ */
 p {
     background-color: aquamarine;
     border: solid black 3px;
