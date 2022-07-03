@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+
+}
+
+
+h1 {
+    background-color: rgba(204, 35, 35, 0.986);
+    border: solid rgba(13, 218, 74, 0.575) 4px;
+    border-radius: 80px;
+    margin: 50px 0px 0px 360px;
+    width: 630px;
+    padding-left: 20px;
+}
